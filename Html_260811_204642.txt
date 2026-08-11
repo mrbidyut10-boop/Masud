@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Masud Rana | E-Commerce Specialist & Operations Manager</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="bg-slate-900 text-slate-100 font-sans leading-normal tracking-normal">
+
+<!-- Navigation -->
+<nav class="fixed w-full bg-slate-900/90 backdrop-blur-md z-50 border-b border-slate-800">
+<div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+<a href="#" class="text-xl font-bold text-blue-400 tracking-wider">MASUD RANA</a>
+<div class="space-x-6 hidden md:block text-sm font-medium text-slate-300">
+<a href="#about" class="hover:text-blue-400 transition">About</a>
+<a href="#skills" class="hover:text-blue-400 transition">Skills</a>
+<a href="#experience" class="hover:text-blue-400 transition">Experience</a>
+<a href="#education" class="hover:text-blue-400 transition">Education</a>
+<a href="#contact" class="hover:text-blue-400 transition">Contact</a>
+</div>
+</div>
+</nav>
+
+<!-- Hero Section -->
+<section class="pt-32 pb-20 px-6 max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between">
+<div class="md:w-2/3">
+<span class="text-blue-400 font-semibold text-sm tracking-widest uppercase">E-Commerce Specialist</span>
+<h1 class="text-4xl md:text-6xl font-extrabold text-white mt-2 mb-4">Masud Rana</h1>
+<p class="text-lg text-slate-400 mb-6 leading-relaxed">
+Results-driven Operations Manager with <span class="text-blue-400 font-bold">6+ years of experience</span> driving sales and managing multi-channel marketplaces on <span class="text-white font-semibold">Amazon, Walmart, and eBay</span>.
+</p>
+<div class="flex gap-4">
+<a href="#contact" class="bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-3 rounded-lg shadow-lg transition">Contact Me</a>
+<a href="mailto:mrbidyut10@gmail.com" class="border border-slate-700 hover:bg-slate-800 text-slate-300 font-medium px-6 py-3 rounded-lg transition">Email Me</a>
+</div>
+</div>
+</section>
+
+<!-- Marketplace Focus -->
+<section class="py-12 bg-slate-800/50 border-y border-slate-800">
+<div class="max-w-6xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-6">
+<div class="p-6 bg-slate-800 rounded-xl border border-slate-700/50 text-center">
+<i class="fa-brands fa-amazon text-4xl text-amber-500 mb-3"></i>
+<h3 class="text-xl font-bold text-white mb-2">Amazon Seller Central</h3>
+<p class="text-sm text-slate-400">PPC campaign optimization, listing creation, A+ content, FBA management, and account health compliance.</p>
+</div>
+<div class="p-6 bg-slate-800 rounded-xl border border-slate-700/50 text-center">
+<i class="fa-solid fa-store text-4xl text-blue-500 mb-3"></i>
+<h3 class="text-xl font-bold text-white mb-2">Walmart Seller Center</h3>
+<p class="text-sm text-slate-400">Item spec management, pricing strategy, order fulfillment, and listing quality optimization.</p>
+</div>
+<div class="p-6 bg-slate-800 rounded-xl border border-slate-700/50 text-center">
+<i class="fa-brands fa-ebay text-4xl text-red-500 mb-3"></i>
+<h3 class="text-xl font-bold text-white mb-2">eBay Store Management</h3>
+<p class="text-sm text-slate-400">Promoted listings, store branding, multi-variation listings, customer dispute resolution, and feedback score maintenance.</p>
+</div>
+</div>
+</section>
+
+<!-- Experience Section -->
+<section id="experience" class="py-20 max-w-6xl mx-auto px-6">
+<h2 class="text-3xl font-bold text-white mb-10 border-b border-slate-800 pb-4">Work Experience</h2>
+
+<div class="space-y-8">
+<div class="bg-slate-800 p-6 rounded-xl border border-slate-700">
+<div class="flex justify-between items-start flex-wrap gap-2 mb-3">
+<div>
+<h3 class="text-xl font-bold text-white">E-Commerce Operations Manager</h3>
+<p class="text-blue-400 font-medium">CM Works Solution (Freelancing Company)</p>
+</div>
+<span class="bg-blue-900/50 text-blue-300 text-xs px-3 py-1 rounded-full border border-blue-700">6 Years Experience</span>
+</div>
+<ul class="list-disc list-inside text-slate-300 space-y-2 text-sm">
+<li>Managed end-to-end multi-channel e-commerce operations across Amazon, Walmart, and eBay.</li>
+<li>Created high-converting product listings with keyword optimization (SEO) and competitors analysis.</li>
+<li>Managed inventory, price monitoring, customer support, and return handling across platforms.</li>
+<li>Led virtual assistant teams to achieve high seller ratings and operational excellence.</li>
+</ul>
+</div>
+
+<div class="bg-slate-800 p-6 rounded-xl border border-slate-700">
+<div class="flex justify-between items-start flex-wrap gap-2 mb-3">
+<div>
+<h3 class="text-xl font-bold text-white">Sales Executive</h3>
+<p class="text-blue-400 font-medium">Arosh Showroom (Clothing Brand)</p>
+</div>
+<span class="bg-slate-700 text-slate-300 text-xs px-3 py-1 rounded-full">1 Year Experience</span>
+</div>
+<p class="text-slate-300 text-sm">Managed retail sales operations, customer engagement, product presentation, and inventory tracking.</p>
+</div>
+
+<div class="bg-slate-800 p-6 rounded-xl border border-slate-700">
+<div class="flex justify-between items-start flex-wrap gap-2 mb-3">
+<div>
+<h3 class="text-xl font-bold text-white">Medical Promotion Officer</h3>
+<p class="text-blue-400 font-medium">Drug International Ltd.</p>
+</div>
+<span class="bg-slate-700 text-slate-300 text-xs px-3 py-1 rounded-full">1 Year Experience</span>
+</div>
+<p class="text-slate-300 text-sm">Promoted pharmaceutical products to clients and developed long-term customer relationships.</p>
+</div>
+</div>
+</section>
+
+<!-- Education & Qualification -->
+<section id="education" class="py-16 bg-slate-800/30">
+<div class="max-w-6xl mx-auto px-6">
+<h2 class="text-3xl font-bold text-white mb-10 border-b border-slate-800 pb-4">Education & Certification</h2>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+<div class="bg-slate-800 p-6 rounded-xl border border-slate-700">
+<h3 class="text-lg font-bold text-white">MBA in Marketing</h3>
+<p class="text-slate-400 text-sm">National University (2022)</p>
+<p class="text-blue-400 text-sm font-semibold mt-2">CGPA: 3.16 out of 4.00</p>
+</div>
+<div class="bg-slate-800 p-6 rounded-xl border border-slate-700">
+<h3 class="text-lg font-bold text-white">BBA in Marketing</h3>
+<p class="text-slate-400 text-sm">National University (2018)</p>
+<p class="text-blue-400 text-sm font-semibold mt-2">CGPA: 3.06 out of 4.00</p>
+</div>
+</div>
+
+<div class="mt-6 bg-slate-800 p-6 rounded-xl border border-slate-700">
+<h3 class="text-lg font-bold text-white mb-1">Computer Office Application Course</h3>
+<p class="text-slate-400 text-sm">6-Month Course (Govt. Approved)</p>
+<p class="text-green-400 text-sm font-semibold mt-1">Result: CGPA 4.00 out of 4.00</p>
+</div>
+</div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="py-20 max-w-6xl mx-auto px-6">
+<h2 class="text-3xl font-bold text-white mb-8 text-center">Get In Touch</h2>
+<div class="bg-slate-800 p-8 rounded-xl border border-slate-700 max-w-2xl mx-auto text-center">
+<div class="space-y-4 text-slate-300">
+<p><i class="fa-solid fa-phone text-blue-400 mr-2"></i> +880 1878-552181</p>
+<p><i class="fa-solid fa-envelope text-blue-400 mr-2"></i> mrbidyut10@gmail.com</p>
+<p><i class="fa-solid fa-location-dot text-blue-400 mr-2"></i> Sukrabad, Dhaka, Bangladesh</p>
+</div>
+</div>
+</section>
+
+<!-- Footer -->
+<footer class="py-6 border-t border-slate-800 text-center text-sm text-slate-500">
+<p>© 2026 Masud Rana. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
